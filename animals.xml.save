@@ -1,0 +1,91 @@
+<animals>
+<mammels> 
+<dog>
+        <german_shephard>
+        <Ricky_height="500000000000"_age="-2000"/>    
+        </german_shephard>
+        <great_dane>
+        <robert_height="4"_age="2"/>
+         </great_dane>
+        <dalmation>
+        <gogano_height="2"_age="34"/>
+         </dalmation>
+        
+        
+</dog> 
+<cat>
+            <ragdoll> 
+           <sunny_height="100"_age_"2"/>          
+            </ragdoll>
+            <british_shorthair> 
+            <sugar_height="-5"_age_"4"/>
+            </british_shorthair>
+             <russian_blue> 
+             <walmsley_height="5,10"_age="16"/>    
+            </russian_blue>
+              
+</cat>
+<monkey> 
+        <black_howler> 
+     <harry_height="4"_age="4"/>
+        </black_howler>
+       <capuchin> 
+      <david_height="123"_age="456"/>
+      </capuchin>
+      <baboon> 
+       <zack_height="3,5"=age="45"/>   
+       </baboon>
+
+
+
+</monkey>
+
+<whales>
+<sperm_whales> 
+<pencil_height="45"_age="65"/>
+</sperm_whales>
+<killer_whales> 
+<paper_height="1234"_age="5678"/>
+</killer_whales>
+<humpback_whales> 
+<pen_height="0"_age="9"/>
+</humpback_whales>
+
+
+</whales>
+
+<hamsters> 
+<golden> 
+<rosen_height="1,2"_age="17"/>
+</golden>
+<gansu> 
+<poe_height="7"_age="23"/>
+</gansu>
+<chinse> 
+<edgar_height="2345"_age="2345678909876543212345678"
+</chinse>
+</hamster>
+
+
+<\mammels>
+
+<reptiles>
+<turtle> 
+<sea_turtle> </sea_turtle>
+<snapping> </snapping>
+<box> </box>
+</turtle>
+<lizard> 
+<gecko> </gecko>
+<knight_anole> </knight_anole>
+<kamodo_dragon> </kamodo_dragon>
+</lizard>
+<snake> 
+
+</snake>
+
+</reptiles
+
+
+
+</animals>
